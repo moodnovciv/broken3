@@ -9,11 +9,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moodnovciv/broken3.git"
+    "url": "git+https://github.com/moodnovciv/broken4.git"
   },
   "bugs": {
-    "url": "https://github.com/moodnovciv/broken3/issues"
+    "url": "https://github.com/moodnovciv/broken4/issues"
   },
-  "homepage": "https://github.com/moodnovciv/broken3#readme",
+  "homepage": "https://github.com/moodnovciv/broken4#readme",
   "description": ""
 }
